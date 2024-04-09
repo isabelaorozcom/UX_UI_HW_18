@@ -1,0 +1,28 @@
+.inline-block {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.logo {
+  width: 23%;
+  padding: 1%;
+  text-align: center;
+}
+
+nav {
+  width: 73%;
+  padding: 1%;
+}
+
+.mywork {
+  margin: 20px 0;
+}
+
+.flexContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+footer {
+  background-color: #848484;
+}
